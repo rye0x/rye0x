@@ -1,44 +1,64 @@
-<!-- Animated Typing Header -->
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Natnat 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+Natnat's+GitHub!;Full-Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things;Neovim+User+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E9D75A&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📟 GitHub Stats
+## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rye0x&show_icons=true&theme=gruvbox&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rye0x&layout=compact&theme=gruvbox&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rye0x&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rye0x&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rye0x&theme=gruvbox&hide_border=true" height="160"/>
-</p>
-
----
-
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,postgresql,js,ts,nextjs,react,tailwind,git,docker,vim" />
+  <img src="https://streak-stats.demolab.com?user=rye0x&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack  
+
+### 🚀 Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind" />
+</p>
+
+### 💻 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust" />
+</p>
+
+### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,bitbucket,digitalocean,vercel,supabase,figma" />
+</p>
+
+### ✨ Editors  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+---
+
+## 🌊 Fun Vibe  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+---
+
+## 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.facebook.com/mnaquino01">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nbaquino">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rye0x">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=100&section=footer&text=Thanks+for+visiting!&fontColor=00FF00&fontSize=20&animation=twinkling"/>
 </p>
