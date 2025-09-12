@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rye0x&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rye0x&layout=compact&theme=tokyonight" height="150"/>
@@ -17,8 +17,6 @@
 </p>
 
 ---
-
-## 🛠️ Tech Stack  
 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
@@ -40,13 +38,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
-
----
-
-## 🌊 Fun Vibe  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 ---
