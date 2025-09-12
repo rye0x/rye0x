@@ -22,12 +22,13 @@
 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind,streamlit,shadcn" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind,streamlit" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,java,c++,c" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp" />
 </p>
 
 ### 🧰 Tools & Platforms  
