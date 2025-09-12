@@ -22,12 +22,12 @@
 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind,streamlit,shadcn" />
 </p>
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,rust" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,java,c++,c" />
 </p>
 
 ### 🧰 Tools & Platforms  
