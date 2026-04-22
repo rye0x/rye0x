@@ -1,11 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Nathan 🚀</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E9D75A&width=435&lines=Software+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
----
-
+<h1 align="left">Kamusta?</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rye0x&show_icons=true&theme=tokyonight" height="150"/>
@@ -18,23 +12,23 @@
 
 ---
 
-### 🚀 Frameworks & Libraries  
+### Frameworks & Libraries  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind,streamlit" />
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
-### 💻 Languages  
+### Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp" />
 </p>
 
-### 🧰 Tools & Platforms  
+### Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,bitbucket,digitalocean,vercel,supabase,figma" />
 </p>
 
-### ✨ Editors  
+### Editors  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
