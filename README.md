@@ -1,50 +1,22 @@
-<!-- Profile Header -->
-<h1 align="left">Kamusta?</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rye0x&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rye0x&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rye0x&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
+natnat
 ---
+hey! i’m nathan, kamusta? i love open source and i’m always striving to improve my coding skills. i’m planning to share my journey online through blogs, or maybe vlogs in the future.
 
-### Frameworks & Libraries  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,flask,django,tailwind,streamlit" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-</p>
+i currently work with rust and web3. i’m basically a full-stack developer, but i’m really leaning toward rust and low-level systems programming. right now, i’m studying system design and software architecture.
 
-### Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp" />
-</p>
+### what i’m hacking on
 
-### Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,bitbucket,digitalocean,vercel,supabase,figma" />
-</p>
+i’m keeping my personal projects private at the moment since my progress has been slow. but they will likely involve mobile development and communication systems, similar to what you see in project hail mary. i’ll definitely share them on my blog once my personal website is published.
 
-### Editors  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+i’m currently focused on working with startups and finding more side hustle opportunities in software engineering.
 
----
+### nerd stuff
 
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://www.facebook.com/mnaquino01">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nbaquino">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rye0x">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+i consider myself a jack of all trades because i try a lot of different things. i love anime, sports, a healthy lifestyle, low-level programming, design, and ui/ux flows. i also enjoy helping people through technology.
+
+i tend to read quite a lot, especially fiction novels that explore politics, social issues, adventure, and more.
+
+i also really enjoy configuring my ide setups and editors. i like minimal setups like neovim, and i try to replicate its workflow in tools like vscode, zed, and cursor.
+
+### my vibe
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ2Y3AwdnA4bDE3dXB3M3lldWhpZXJsMzMyc21kMzhtYzlyMXdxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qs5khBKll3CazwLauS/giphy.gif)
