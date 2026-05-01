@@ -2,13 +2,13 @@ natnat
 ---
 hey! i’m nathan, kamusta? i love open source and i’m always striving to improve my coding skills. i’m planning to share my journey online through blogs, or maybe vlogs in the future.
 
-i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now, but I’m leaning more toward low-level systems programming or cybersecurity in the future. For now, I’m studying system design and software architecture to improve my thinking and decision. also, i would like to mention that the industries i’m leaning toward are fintech or space agencies.
+i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now, but I’m leaning more toward low-level systems programming or cybersecurity in the future. for now, i'm studying system design and software architecture to improve my thinking and decision. also, i would like to mention that the industries i’m leaning toward are fintech or space agencies.
 
 ### what i’m hacking on
 
-i’m keeping my personal projects private at the moment since my progress has been slow. but they will likely involve mobile development or system development that involves communication system, similar to what you see in project hail mary. i’ll definitely share them on my blog once my personal website is published.
+i’m keeping my personal projects private at the moment since my progress has been slow. but they will likely involve mobile development or web app. i’ll definitely share them on my blog once my personal website is published.
 
-i’m currently focused on working with startups and finding more side hustle opportunities in software engineering. i'm also looking for opportunity outside my country to migrate and start working there. 
+i’m currently working with startups and finding more side hustle opportunities in software engineering. i'm also looking for opportunity outside my country to migrate and start working there, if you can help me pls hook me up.
 
 ### nerd stuff
 
