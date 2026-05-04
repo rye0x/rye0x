@@ -2,7 +2,7 @@ natnat
 ---
 kamusta! i’m nathan, a comsci graduate, i believe in the power of open source. i’m hungry to improve my coding skills. i’m planning to share my journey online through blogs, or maybe vlogs in the future? 
 
-i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now, but I’m planning to learn more about low-level systems programming or cybersecurity. for now, i'm studying system design and software architecture to improve my thinking and decision. also, i would like to mention that the industries i’m leaning toward are fintech or space agencies.
+i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now and aside from tech stack i mentioned, of course i'd know other languages, frameworks, cloud services, maths etc too hehe, but I’m planning to learn more about low-level systems programming or cybersecurity. for now, i'm studying system design and software architecture to improve my thinking and decision. also, i would like to mention that the industries i’m leaning toward are fintech or space agencies.
 
 ### what i’m hacking on
 
