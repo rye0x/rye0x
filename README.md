@@ -10,7 +10,7 @@ i’m currently working with startups and finding more side hustle opportunities
 
 ### nerd stuff
 
-i consider myself a jack of all trades because i try a lot of different things aside from programming. i love anime, reading, movies/series, sports, neuroscience, a healthy lifestyle, design, and ui/ux. basically, all of stuff. 
+i consider myself a jack of all trades because i try a lot of different things aside from programming. i love anime, gaming, reading, movies/series, sports (volleyball/badminton/tennis/basketball), neuroscience, a healthy lifestyle, arts and design, basically, all of stuff that will intrigued me. 
 
 i currently starting my reading hobby too, especially fiction novels that explore politics, social issues, adventure, space and more. someday, i would love to work in space agency like NASA.
 
