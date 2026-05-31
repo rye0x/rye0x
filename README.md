@@ -8,7 +8,7 @@ i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack
 
 ### what i’m hacking on
 
-i’m currently working with startups and finding more side hustle opportunities in software engineering. i'm also looking for opportunity outside my country to migrate and start working there, if you can help me pls hook me up. also, i'm planning to create some SaaS application or mobile application.  i’ll definitely share them on my blog once my personal website is published.
+i’m currently working with startups and finding more side hustle opportunities in software engineering. i'm also looking for opportunity outside my country to migrate and start working there, if you can help me pls hook me up. also, i'm planning to create some SaaS application or mobile application, i’ll definitely share them on my blog once my personal website is published.
 
 ### nerd stuff
 
