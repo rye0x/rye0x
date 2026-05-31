@@ -2,7 +2,9 @@ natnat
 ---
 kamusta! i’m nathan, a comsci graduate, i believe in the power of open source and i’m hungry. i’m planning to share my journey online through blogs, or maybe vlogs in the future? 
 
-i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now and aside from tech stack i mentioned, of course i'd know other languages, frameworks, cloud services, maths etc too hehe, but I’m planning to learn more about low-level systems programming or cybersecurity. for now, i'm studying system design and software architecture to improve my thinking and decision. also, i would like to mention that the industries i’m leaning toward are fintech or space agencies.
+i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now and aside from tech stack i mentioned, of course i'd know other languages, frameworks, cloud services, maths etc too hehe, but I’m planning to learn more about low-level system  programming/embedded kinda thing or cybersecurity. for now, i'm studying system design and software architecture to improve my thinking and decision because the way AI behaves today... i should be able to tell AI is wrong. 
+
+ i would like to mention that the industries i’m leaning toward are fintech or robotics/space agencies or biotech.
 
 ### what i’m hacking on
 
@@ -10,11 +12,11 @@ i’m currently working with startups and finding more side hustle opportunities
 
 ### nerd stuff
 
-i consider myself a jack of all trades because i try a lot of different things aside from programming. i love anime, gaming, reading, movies/series, sports (volleyball/badminton/tennis/basketball), neuroscience, a healthy lifestyle, arts and design, basically, all of stuff that will intrigued me. 
+i consider myself a jack of all trades because i try a lot of different things aside from programming. i love anime, gaming, reading, movies/series, active lifestyle (volleyball/badminton/tennis/basketball), neuroscience, politics, arts and design, basically, all of stuff that will intrigued me. 
 
-i currently starting my reading hobby too, especially fiction novels that explore politics, social issues, adventure, space and more. someday, i would love to work in space agency like NASA.
+i currently starting my reading journey, especially fiction novels that explore politics, social issues, adventure, space and more. someday, i would love to work in space agency like NASA.
 
-i also really enjoy configuring my ide setups and editors. i like minimal setups like neovim, and i try to replicate its workflow in tools like vscode, zed, and cursor.
+i also really enjoy configuring my ide setups and editors. i like minimal setups like neovim, and i try to replicate its workflow in editors like vscode, zed, and cursor.
 
 ### my vibe
 ![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ2Y3AwdnA4bDE3dXB3M3lldWhpZXJsMzMyc21kMzhtYzlyMXdxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qs5khBKll3CazwLauS/giphy.gif)
