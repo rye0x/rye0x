@@ -1,20 +1,27 @@
 natnat
 ---
-kamusta! i’m nathan, a comsci graduate, i believe in the power of open source and i’m hungry. i’m planning to share my journey online through blogs, or maybe vlogs in the future? 
+kamusta! i’m nathan, a comsci graduate who believes in the power of open source, and i’m hungry. i’m transitioning into **ai safety**, and i’m sharing the whole journey online through blogs, papers, and maybe vlogs in the future.
 
-i am currently working with Svelte, Rust, and Web3. i’m basically a full-stack developer right now and aside from tech stack i mentioned, of course i'd know other languages, frameworks, cloud services, maths etc too hehe, but I’m planning to learn more about low-level system  programming/embedded kinda thing or cybersecurity. for now, i'm studying system design and software architecture to improve my thinking and decision because the way AI behaves today... i should be able to tell AI is wrong. 
-
- i would like to mention that the industries i’m leaning toward are fintech or robotics/space agencies or biotech.
+i’m a full-stack developer by trade (svelte, rust, typescript, python, cloud, and web3 on the side), with a background in classic ml. lately i've been studying system design and software architecture. the way ai behaves today, i don't just want to build with it. i want to be able to tell when it's wrong, figure out *why*, and help make it safe.
 
 ### what i’m hacking on
 
-i’m currently working with startups and finding more side hustle opportunities in software engineering. i'm also looking for opportunity outside my country to migrate and start working there, if you can help me pls hook me up. also, i'm planning to create some SaaS application or mobile application, i’ll definitely share them on my blog once my personal website is published.
+- **ai evals**: my main research focus. how do we actually measure what a model can do, and what it will do when nobody's watching? i'm drawing on alignment research and machine psychology.
+- **multi-agent safety**: what happens when swarms of ai agents go rogue, and how do we catch it before it compounds?
+- **decision models for ai safety**: using decision theory and modeling to reason about risk and failure modes.
+- **TARA**: an ai safety curriculum i'm building. publishing it soon.
+
+i'm writing papers and blogs on all of this, and i'll post them here and on my personal website once it's live.
+
+### where i’m headed
+
+i'm aiming for an **ai safety fellowship** and a **master's abroad** in ml / ai safety. long-term moonshot: doing research at an ai safety institute. if you're working on evals, alignment, or multi-agent safety and want a collaborator, or you know a program or lab i should look at, pls hook me up. my dms are open.
 
 ### nerd stuff
 
-i consider myself a jack of all trades because i try a lot of different things aside from programming. i love anime, gaming, reading, movies/series, active lifestyle (volleyball/badminton/tennis/basketball), neuroscience, politics, arts and design, basically, all of stuff that will intrigued me. 
+i consider myself a jack of all trades because i try a lot of different things aside from programming. i love anime, gaming, reading, movies/series, an active lifestyle (volleyball/badminton/tennis/basketball), neuroscience, politics, arts and design. basically, all the stuff that intrigues me.
 
-i currently starting my reading journey, especially fiction novels that explore politics, social issues, adventure, space and more. someday, i would love to work in space agency like NASA.
+i'm currently starting my reading journey, especially fiction novels that explore politics, social issues, adventure, space and more. turns out a lot of them are secretly about the same question ai safety asks: what happens when power outgrows the people who are supposed to control it.
 
 i also really enjoy configuring my ide setups and editors. i like minimal setups like neovim, and i try to replicate its workflow in editors like vscode, zed, and cursor.
 
