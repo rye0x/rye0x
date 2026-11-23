@@ -8,6 +8,12 @@ i’m a full-stack developer by trade (svelte, rust, typescript, python, cloud, 
 
 i’m currently working with startups and diving deep into **ai safety**: reading the research, learning the fundamentals, and writing papers and blogs about what i learn. i’ll share them here and on my personal website once it’s published.
 
+### what i’m interested in
+
+- **safety:** alignment, interpretability, multi-agent and systemic risk
+- **ethics:** transparency and cognitive security
+- **deployment:** sector-specific, especially finance, bio, and space tech
+
 ### where i’m headed
 
 i'm aiming for an **ai safety fellowship** and a **master's abroad** (international). if you're working on ai safety and want a collaborator, or you know a program or lab i should look at, pls hook me up. my dms are open.
